@@ -1,5 +1,5 @@
 # Exp-14-Implement-Hash-Function
-Implement-Hash-Function
+
 ## AIM:
 To generate a simple hash of a given message using a custom hash function.
 
